@@ -1,0 +1,3 @@
+jupyterhub>=0.5
+-e https://github.com/jupyterhub/oauthenticator.gitegg=oauthenticator
+-e https://github.com/jupyterhub/ldapauthenticator.git#egg=ldapauthenticator
